@@ -23,12 +23,6 @@ class Flipkart extends Ecommerce{
 	}
 }
 
-class Sample{
-	public static void main(String[] args) {
-		Ecommerce e=new Amazon();
-		e.shopping();
 
-	}
-}
 
 
