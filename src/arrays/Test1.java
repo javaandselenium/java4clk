@@ -8,11 +8,16 @@ public class Test1 {
 		a[1]=20;
 		a[2]=30;
 		a[3]=50;
-		a[4]=60;
+		//a[4]=60;
 		
-		for(int i=0;i<=3;i++)
+//		for(int i=0;i<=3;i++)
+//		{
+//			System.out.println(a[i]);
+//		}
+		
+		for(int bw:a)
 		{
-			System.out.println(a[i]);
+			System.out.println(bw);
 		}
 
 	}
